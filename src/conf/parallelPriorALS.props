@@ -1,0 +1,11 @@
+|numFeatures = 10
+|numIterations = 10
+|lambda_a = 0.9
+|lambda_fg = 0.05
+|lambda_fu = 0.05
+|lambda_lg = 0.1
+|lambda_lu = 0.1
+|lambda_g = 0.05
+|lambda_u = 0.05
+|dimFeatureUser = 20
+|dimFeatureGeo = 47241
